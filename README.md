@@ -1,14 +1,14 @@
 # Build Description
 
 ## -  Deployed an NFT Smart Contract (Edition Drop - ERC 1155)
-CA: 
+**CA: 0x65B9d4F22eEE38d94Ef318d9ac50f79f5fA86d76**
 
 ## - A website application that shows the NFT in the collection and enables the user to connect a wallet and mint an NFT.
 <img width="1440" alt="Screen Shot 2022-11-09 at 10 29 16 PM" src="https://user-images.githubusercontent.com/89659909/201188673-82038671-4280-4602-a7c8-26dd400e8714.png">
 
 **Tech stack used:**
 
-Edition drop (ERC - 1155): 
+Edition drop (ERC - 1155)
 
 Thirdweb SDK: React and Typescript
 
@@ -18,7 +18,7 @@ Thirdweb SDK: React and Typescript
 
 **Tech stack used:**
 
-Edition drop (ERC - 1155):
+Edition drop (ERC - 1155)
 
 Thirdweb Auth
 
@@ -30,9 +30,10 @@ Thirdweb SDK: React
 <img width="1440" alt="Screen Shot 2022-11-09 at 10 30 58 PM" src="https://user-images.githubusercontent.com/89659909/201188884-1cb0f00f-311a-44bf-89cd-b8a49ec3c80b.png">
 
 **Tech stack used:**
-Edition drop (ERC - 1155):
 
-Marketplace pre-built smart contract:
+Marketplace smart contract: 0xD1ff778F6F0C38ddF2D61366ae21f445a5524CD0
+
+Edition drop (ERC - 1155)
 
 Thirdweb SDK: React and Typescript
 
